@@ -1,0 +1,20 @@
+C:\Users\megator\source\repos\InterfazGrafica_Ejercicio4\bin\Debug\InterfazGrafica_Ejercicio4.exe.config
+C:\Users\megator\source\repos\InterfazGrafica_Ejercicio4\bin\Debug\InterfazGrafica_Ejercicio4.exe
+C:\Users\megator\source\repos\InterfazGrafica_Ejercicio4\bin\Debug\InterfazGrafica_Ejercicio4.pdb
+C:\Users\megator\source\repos\InterfazGrafica_Ejercicio4\obj\Debug\InterfazGrafica_Ejercicio4.csproj.AssemblyReference.cache
+C:\Users\megator\source\repos\InterfazGrafica_Ejercicio4\obj\Debug\InterfazGrafica_Ejercicio4.Form1.resources
+C:\Users\megator\source\repos\InterfazGrafica_Ejercicio4\obj\Debug\InterfazGrafica_Ejercicio4.Properties.Resources.resources
+C:\Users\megator\source\repos\InterfazGrafica_Ejercicio4\obj\Debug\InterfazGrafica_Ejercicio4.csproj.GenerateResource.cache
+C:\Users\megator\source\repos\InterfazGrafica_Ejercicio4\obj\Debug\InterfazGrafica_Ejercicio4.csproj.CoreCompileInputs.cache
+C:\Users\megator\source\repos\InterfazGrafica_Ejercicio4\obj\Debug\InterfazGrafica_Ejercicio4.exe
+C:\Users\megator\source\repos\InterfazGrafica_Ejercicio4\obj\Debug\InterfazGrafica_Ejercicio4.pdb
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\InterfazGrafica_Ejercicio4\bin\Debug\InterfazGrafica_Ejercicio4.exe.config
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\InterfazGrafica_Ejercicio4\bin\Debug\InterfazGrafica_Ejercicio4.exe
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\InterfazGrafica_Ejercicio4\bin\Debug\InterfazGrafica_Ejercicio4.pdb
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\InterfazGrafica_Ejercicio4\obj\Debug\InterfazGrafica_Ejercicio4.csproj.AssemblyReference.cache
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\InterfazGrafica_Ejercicio4\obj\Debug\InterfazGrafica_Ejercicio4.Form1.resources
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\InterfazGrafica_Ejercicio4\obj\Debug\InterfazGrafica_Ejercicio4.Properties.Resources.resources
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\InterfazGrafica_Ejercicio4\obj\Debug\InterfazGrafica_Ejercicio4.csproj.GenerateResource.cache
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\InterfazGrafica_Ejercicio4\obj\Debug\InterfazGrafica_Ejercicio4.csproj.CoreCompileInputs.cache
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\InterfazGrafica_Ejercicio4\obj\Debug\InterfazGrafica_Ejercicio4.exe
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\InterfazGrafica_Ejercicio4\obj\Debug\InterfazGrafica_Ejercicio4.pdb
